@@ -114,7 +114,8 @@ It’s already trained to recognize all sorts of images (thanks to ImageNet).
 You didn’t have to build a complex model from scratch.
 
 It’s lightweight and works well even on normal machines.
-
+ In Simple Terms:
+"ResNet18 is like a really smart image expert. You hired it, taught it about flowers and oils, and now it works for you — quickly and accurately telling you all about any flower you show it."
 You took ResNet18, removed the part that says “this is a cat” or “this is a dog” — and added your own outputs:
 
 What flower is this?
