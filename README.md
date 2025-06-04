@@ -107,3 +107,21 @@ Python
 Flask Snippets
 
 Jupyter (if using notebooks)
+used ResNet18 as the brain of your flower classifier because:
+
+It’s already trained to recognize all sorts of images (thanks to ImageNet).
+
+You didn’t have to build a complex model from scratch.
+
+It’s lightweight and works well even on normal machines.
+
+You took ResNet18, removed the part that says “this is a cat” or “this is a dog” — and added your own outputs:
+
+What flower is this?
+
+What color is it?
+
+What are the oil concentrations?
+
+That's called transfer learning — reusing a smart model for your own purpose.
+
