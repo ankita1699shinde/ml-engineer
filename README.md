@@ -60,3 +60,50 @@ bash
 Copy
 Edit
 pip install torch torchvision pillow scikit-learn numpy pandas
+🧠 Smart code suggestions (like auto-complete)
+
+🐍 Great for Python (and other languages)
+
+🐞 Built-in debugging
+
+🖥️ Built-in terminal to run your code
+
+🔌 Extensions for Flask, Python
+
+
+
+🛠️ How to Use It (Simple Steps)
+Download & Install
+https://code.visualstudio.com
+
+Open Your Project
+File > Open Folder → Select your project folder.
+
+Install Python Extension
+VS Code will prompt you — click Install.
+
+Open Terminal
+Press Ctrl + ~ → run commands like python app.py.
+
+Run Your Flask App
+
+bash
+Copy
+Edit
+python app.py
+Now go to your browser: http://127.0.0.1:5000
+
+Edit Code
+Open any .py file and make changes. Save with Ctrl + S.
+
+Debug (Optional)
+Click the bug icon on the left, set breakpoints, and click ▶️ to run.
+
+🔧 Tip:
+Use these useful extensions:
+
+Python
+
+Flask Snippets
+
+Jupyter (if using notebooks)
